@@ -1,0 +1,15 @@
+"Activity","Mean","Max","Min","Median","Std","Var"
+"Sleep",8.45,9.2,7.4,8.5,0.34,0.11
+"Paid work",3.93,5.4,2.5,3.8,0.77,0.59
+"Housework",2.02,3.1,1.3,2,0.42,0.18
+"TV and Radio",1.95,2.5,1,2,0.32,0.1
+"Eating and drinking",1.58,2.2,1,1.5,0.33,0.11
+"Other leisure activities",1.56,2.5,0.7,1.6,0.41,0.17
+"Personal care",0.96,1.8,0.7,0.9,0.24,0.06
+"Seeing friends",0.86,1.4,0.3,0.8,0.28,0.08
+"Other unpaid work & volunteering",0.78,1.6,0.3,0.7,0.29,0.08
+"Education",0.52,0.9,0.2,0.5,0.15,0.02
+"Care for household members",0.43,1,0,0.4,0.17,0.03
+"Shopping",0.35,0.5,0.1,0.4,0.11,0.01
+"Sports",0.35,0.7,0.1,0.3,0.16,0.02
+"Attending events",0.12,0.7,0,0.1,0.12,0.01
