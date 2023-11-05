@@ -1,4 +1,10 @@
 # Time-Spent
+
+Authors
+Dante Mathieu Schrantz 
+Miguel Diaz Perez de Juan
+
+Why?
 The concept of time is a fundamental aspect of human existence, shaping our daily routines, relationships, and overall quality of life. As part of our university project, we have embarked on a comprehensive study to understand how individuals allocate their time across various activities, and with whom throughout their entire lifespan. By analyzing this data, we aim to gain insights into the patterns and trends that emerge, shedding light on the impact of culture, age, and societal changes on our time allocation.
 
 
