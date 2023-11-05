@@ -23,7 +23,6 @@ We aim to explore the relationship between age and social interactions. By analy
 4. What is expected to happen in the future, how much time we will spend with others?
 We aim to make predictions about future time use patterns and social interactions. By utilizing historical data and employing predictive modeling techniques, we can forecast how individuals' time allocation and socialization habits may evolve over time. This analysis can help anticipate potential shifts in societal dynamics and inform decision-making in areas such as resource allocation, social policies, and urban planning.
 
-
 How we found our answers?
 1. Analyze what we do with our time:
 By examining how we allocate our time, we can identify patterns, prioritize tasks, and make necessary adjustments to optimize our daily routines. This analysis can involve tracking activities, categorizing them, and assessing the time spent on each. It helps us identify time-wasting activities, areas where we can delegate or automate tasks, and opportunities for personal growth or skill development.
@@ -37,10 +36,9 @@ Searching for relationships in our time data can uncover valuable insights about
 - [@migueldiazpdj](https://github.com/migueldiazpdj) 
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
-- 
-- Inspiration 
-- References
-
+- https://stackoverflow.com - Code related errors
+- https://app.datacamp.com/learn/career-tracks/data-scientist-with-r - Learning R studio
+- https://www.youtube.com/@dataslice - ggplot animations and aesthetics
 
 
 
