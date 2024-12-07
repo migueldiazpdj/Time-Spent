@@ -40,5 +40,7 @@ Searching for relationships in our time data can uncover valuable insights about
 - https://app.datacamp.com/learn/career-tracks/data-scientist-with-r - Learning R studio
 - https://www.youtube.com/@dataslice - ggplot animations and aesthetics
 
+## 📄 Licencia
 
+Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
